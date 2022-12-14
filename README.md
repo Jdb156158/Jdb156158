@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdb156158&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jdb156158)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 Jdb156158/Jdb156158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
